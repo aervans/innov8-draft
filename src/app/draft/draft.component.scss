@@ -1,0 +1,15 @@
+.c-1 {
+  border: 2px dotted coral;
+}
+
+.c-2 {
+  border: 2px dotted crimson;
+}
+
+::ng-deep {
+  .nav-tabs {
+    a, a:link, a:visited {
+      color: mintcream;
+    }
+  }
+}
